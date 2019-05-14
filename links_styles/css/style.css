@@ -1,18 +1,66 @@
 /*--
 colo:white;
-url: "live linl";
+body and header url: "live link from google";
+ul magin: 20 20;
+h3 marigin: 20 20;
+link hover: when simple white and black,
+when hover over it then sky blue and white;
 --*/
 header {
     background-image: url('https://images.template.net/wp-content/uploads/2014/09/Cool-Website-Backgrounds600.jpg');
+    float: inline-start;
     text-align:center;
     font-family: 'Macondo Swash Caps', cursive;
     color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
 }
 body{
-    background-image: url('https://cdn.wallpapersafari.com/22/61/9QZpGU.jpg');
+    background-image: url('https://i.pinimg.com/originals/b7/94/ae/b794aee72b944d355e06aceeadc70061.jpg');
     padding : 10 10 10 10;
     font-family: 'Macondo Swash Caps', cursive;
     color:white;
+    margin-left: 20px;
+    margin-right: 20px;
 }
+.ul{
+    display: inline-table;
+}
+h3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a:link {
+    background-color: whitesmoke;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-sizing: border-box;
+    border-top-width: 5px;
+    border-left-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+  }
+  
+  a:hover, a:active {
+    background-color: lightskyblue;
+    color:white;
+  }
+ li{
+    float: left;
+    width: 15%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 25px; /* if you want space between the images */
+    margin-left: 20px;
 
-
+  }
+ 
