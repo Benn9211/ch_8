@@ -12,6 +12,7 @@ header {
     text-align:center;
     font-family: 'Macondo Swash Caps', cursive;
     color: white;
+    padding : 10 10 10 10;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 5px;
@@ -26,6 +27,7 @@ body{
 }
 .ul{
     display: inline-table;
+    
 }
 h3{
     margin-left: 20px;
@@ -61,6 +63,7 @@ a:link {
     width: 15%; /* three boxes (use 25% for four, and 50% for two, etc) */
     padding: 25px; /* if you want space between the images */
     margin-left: 20px;
+    font-size: x-large;
 
   }
  
