@@ -1,0 +1,18 @@
+/*--
+colo:white;
+url: "live linl";
+--*/
+header {
+    background-image: url('https://images.template.net/wp-content/uploads/2014/09/Cool-Website-Backgrounds600.jpg');
+    text-align:center;
+    font-family: 'Macondo Swash Caps', cursive;
+    color: white;
+}
+body{
+    background-image: url('https://cdn.wallpapersafari.com/22/61/9QZpGU.jpg');
+    padding : 10 10 10 10;
+    font-family: 'Macondo Swash Caps', cursive;
+    color:white;
+}
+
+
