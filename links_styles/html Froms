@@ -1,1 +1,44 @@
-
+<!DOCTYPE html>
+  <html lang="en">
+     
+   <head>
+        <meta charset="utr-8">
+     <title>
+       HTML FROM  
+     </title>
+   </head>
+   <body>
+       <h1> HTML Form</h1>
+       <h2> by Bhanu Singh</h2>
+       <form>
+           <p><label>First Name: <input id="firstname" type="text" placeholder="Enter Your Name" re></label></p>
+           <!--This input is asking for your first name type of text-->
+           <p><label>Last Name: <input id="lastname" type="text" placeholder="Enter Your Last Name"></label></p>
+           <!--This input is asking for your last name type of text-->
+           <p><label for="email">Email: </label><input id="eamil" type="email" placeholder="email address"></p>
+           <!--This input is asking for your email and for the placeholder-->
+           <p><label for="url">URL: </label><input id="url" type="url" placeholder="http://"></p>
+           <!--This input is asking for  url -->
+           <p><label for="password">Password: </label><input id="password" type="password" placeholder="password"></p>
+           <!--This input is asking for  password --> 
+           <p><label for="date">Date: </label><input id="date" type="date" placeholder="12/16/2019"></p>
+           <!--This input is asking for your date -->
+           <p><label for="time">Time: </label><input id="time" type="time" placeholder="1:30 PM"></p>
+           <!--This input is asking for what time -->
+           <p><label for="number">Number: </label><input id="number" type="number" min="0" max="10"></p>
+           <!--This input is asking for your number -->
+           <p><label for="range">Range: </label><input id="range" type="range" ></p>
+           <!--This input is asking for range of good to bad or from 1-10 -->
+           <p><label for="tel">Telephone: </label><input id="tel" type="tel" placeholder="xxx-xxx-xxxx"></p>
+           <!--This input is asking for telephone number -->
+           <p>Comments: <textarea cols="30" rows="4" placeholder="Post comments"></textarea></textarea></p>
+           <!--This input is asking for to put comment coloms  and textarea is expendebale-->
+           <p><input id="submit" type="type" value="Click to Submit Form"></p>
+           <!--This input is asking for submit the cotent text -->
+           <p><label for="color">Color: </label><input id="color" type="color"></p>
+           <!--This input is asking for color box -->
+           <p><label for="search">Search: </label><input id="search" type="search"></p>
+           <!--This input is asking for search -->
+     </form>
+   </body>
+   </html>
