@@ -1,6 +1,6 @@
 # First project from front half web devlopment with html forms
 
-* Downloadload the file  
+* Download the file in the zip format
 
 * Run this file in any editor like sublime text or visual code
  
