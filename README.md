@@ -3,9 +3,12 @@
 * Download the file in the zip format
 
 ## This is how you unzip the file:
-### ![](img/ch_8.png)
-### ![](img/ch_8.2.png)
-### ![](img/ch_8.3.png)
+
+### ![* First Step:](img/ch_8.png)
+
+### ![* Second Step:](img/ch_8.2.png)
+
+### ![* Third Step:](img/ch_8.3.png)
 
 
 * Run this file in any editor like sublime text or visual code
